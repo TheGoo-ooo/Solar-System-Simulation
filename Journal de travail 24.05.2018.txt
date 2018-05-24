@@ -1,0 +1,18 @@
+08:58 	Mise a jour des TO DO sur Trello
+09:05 	Continue le merge des projets
+09:30 	Test terre 3D pour EarthTakeOff
+09:45 	Continue le merge
+09:55 	Test/modifications Mars Canyon
+10:37	Passage du projet en UE4 v4.19 (scale camera speed)
+10:45	Continue le merge (canyon assets posent des problèmes)
+11:39	Compile shaders... env 30'000 + build du projet
+12:02	Tous les porjets (MarsMoon, EarthTakeOff, MarsCanyon) ont
+	été intègrés au projet principale.
+12:03	Tutoriel blueprint
+12:30	Pause midi
+13:00	Création du blueprint pour suivre la caméra
+	(Pour le planetarium)
+14:50	Utilise le blueprint sur le planetarium
+15:20	Space shuttle 3D model (with Noguera Guillaume, the artist)
+16:04	While The 3D model is being textured-> Start placing
+	planets next to each others, to scale.	

@@ -1,16 +1,1 @@
-crit	name								status
-!!	Change editor camera speed					DONE
-!!!	Merge all projects in one scene					2/4
-!!!	Create spline line between all the scenes
-!!!	Center Planetarium on camera
-!	Scale the sun on event
-!	Scale all planets to real size
-	Space to mars surface
-!!		transition
-!!		cratère doit avoir l'aire d'être profond (global scale 0.0001)
-!	Add Moon
-	
-
-!	Envoyer état de l'art Sommer Nicolas.
-!	lundi réunion
-trello
+https://trello.com/b/D8yO53qz/to-do
