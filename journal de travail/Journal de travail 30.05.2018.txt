@@ -9,4 +9,5 @@
 	Drop de mon projet en ordre :(
 14:29	Réorganise le projet d'anthony.
 	Temps d'attente monumentaux pour chaque déplacement de fichiers, effaçages, etc..
-
+15:00	Refait le git, évite de devoir tout recommencer à zéro si
+	il y a un problème avec le cleanup du projet.
