@@ -1,0 +1,13 @@
+09:00 	Envoi des documents CdC et état de l'art sur le git
+09:10	Commence smooth caméra (abandonné)
+09:30	Réunion superviseur
+10:00	Trajet terre à mars, scripte pour placer les lunes
+10:30	Fix du scripte: variable publique pour la vitesse 
+	de rotation de la lune sur son propre axe
+10:55	Mise à la taille des ratios taille/distance(mars moon)
+11:35	Création d'un spline entre la terre et mars.
+12:30	Pause midi
+13:30	reprend le travail
+13:30 	MàJ steam VR
+14:15 	Spline speed is not good. Changing the rail system for
+	something we can work wich (change speed).

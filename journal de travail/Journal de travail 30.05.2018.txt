@@ -1,0 +1,12 @@
+10:00	Nouveau projet, au propre
+	Import du planetarium et des assets.
+12:30	Pause midi
+13:00	Configurations et options de lumière incorrecte.
+	Le côté obscure de la station n'est pas assez sombre.
+	Ceux qui ont travaillé sur le projet ne savent pas coment faire,
+	ça vient à la base du projet anneaux de saturne. 
+	Je suis obligé de modifier le projet d'Anthony.
+	Drop de mon projet en ordre :(
+14:29	Réorganise le projet d'anthony.
+	Temps d'attente monumentaux pour chaque déplacement de fichiers, effaçages, etc..
+

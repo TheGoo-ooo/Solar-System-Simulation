@@ -7,3 +7,5 @@
 	(sequencer recorder)
 09:52	Test spline line d'Axel (mars Canyon)
 	Orienter la caméra avec la capsule
+10:30	Problème caméra, il va falloir smooth l'orientation (plus tard).
+12:30	Tutoriel sur les spline (courbes de bézier)

@@ -1,0 +1,14 @@
+09:00 	Travail sur le nouveau système de rail pour la caméra.
+09:10	Présentation du projet à Paul :)
+09:23	Système de rail terminé et foncitonnel. Implémentation dans le niveau.
+09:50	Rail pour sortie de l'ISS terminé
+10:00	orienter Mars et préparer les lunes pour y ajouter le rail.
+10:50 	Problème avec la player pawn(nécessaire pour la suite)
+12:30	Pause midi
+13:00	Fin de la pause, régler le problème avec le player pawn.
+14:52	Problème trouvé. Le LoD, les effets et autre assets vont dorénavant fonctionner sans problème.
+15:31	rail complet de la terre à as terminé. 
+15:31	scaling de mars en fonction de la distance avec l'utilisateur
+16:24	Projet est à refaire au propre. Problème de flicker, venant d'un code de l'un des
+	projets de WebGl. 
+16:55	Fin de la journée
