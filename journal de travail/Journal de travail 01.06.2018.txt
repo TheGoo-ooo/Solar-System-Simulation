@@ -1,0 +1,5 @@
+09:00	Place le rigrail et caméra. Set la position du pawn sur 
+	la caméra et utilise la caméra come vue pour le joueur.
+09:45	Présentation de l'état du projet au responsable.
+09:55	Push sur le git + création d'un fichier avec les tailles 
+	des astres et ratios.

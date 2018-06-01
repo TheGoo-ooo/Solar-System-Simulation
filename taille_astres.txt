@@ -1,0 +1,20 @@
+Earth:
+ radius = 6'370 km
+
+Moon
+ radius = 1'737 km
+ semi-major axis = 384'399 km 
+	-> ratio = 30.17 diameter of Earth
+
+Mars
+ radius = 3'389 km
+
+Phobos
+ radius = 11 km
+ semi-major axis = 9'377 km
+	-> ratio = 1.38 diameter of Mars
+
+Deimos
+ radius = 6.2 km
+ semi-major axis = 23'463 km
+	-> ratio = 3.46 diameter of Mars

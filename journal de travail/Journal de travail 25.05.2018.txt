@@ -1,0 +1,11 @@
+09:00 	Mise a jour des TO DO sur Trello
+09:09	Envoi de documents à un responsable
+09:17	Tutoriel: Ajout de musiques et effets sonores
+	(Je vais trouver et importer musics et effets sonores
+	depuis chez moi, le week end)
+09:28	Tutoriel sur l'enregistrement de séquences
+	(sequencer recorder)
+09:52	Test spline line d'Axel (mars Canyon)
+	Orienter la caméra avec la capsule
+10:30	Problème caméra, il va falloir smooth l'orientation (plus tard).
+12:30	Tutoriel sur les spline (courbes de bézier)
