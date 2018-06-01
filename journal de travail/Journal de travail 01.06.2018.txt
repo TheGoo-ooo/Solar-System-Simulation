@@ -3,3 +3,9 @@
 09:45	Présentation de l'état du projet au responsable.
 09:55	Push sur le git + création d'un fichier avec les tailles 
 	des astres et ratios.
+10:20	Back up
+10:21	Mise au scale des lunes de mars
+10:51	Création du rail de la terre à mars
+11:04	Fix les BP phobos & Deimos
+11:25	Set player pawn invisible
+11:38	Ajout de la lune
